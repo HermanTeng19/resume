@@ -10,7 +10,7 @@
 
 * **8+ year** sophisticated **Business Intelligence** infrastructure and data warehouse development experience in banking and finance industry
 * **8+ year** experience on large scale **data process, analytics** and **data modeling** by leveraging **SQL SSIS, Python, Hadoop**(Hive, Impala, Spark)
-* **Azure Certified Data Fundamental** with solid knowledge base on ADLS, Azure SQL Database, Azure Synapse Analytics and Azure Databricks. Pursuing Azure Data Engineer Associate Certification
+* **Azure Certified Data Engineer** with solid knowledge base on ADLS, Azure SQL Database, Azure Synapse Analytics and Azure Databricks. 
 * **Master** of science degree in **Mathematics** 
 * Database development skills: **SQL Server 2008 — 2019**; Hive, Impala; DB2; Oracle 11g — 12c; MySQL; sqlite3
 * Big data development skill: **AKORA Hadoop ecosystem,** HDFS; Apache Spark
@@ -54,4 +54,7 @@ November 20xx – August 20xx | Personal Banking Data & Analytics | xx company
 
 * Posting articles: "Python Environment Setup for Implementation”; “Sandbox solution for BI reporting and analytics”; “Hadoop Data Side Load from SQL Server”
 
+---
 
+[![microsoft-certified-azure-data-engineer-associate.md.png](https://o.130014.xyz/2022/05/30/microsoft-certified-azure-data-engineer-associate.md.png)](https://www.wailian.work/image/Q4AYGf)
+[![microsoft-certified-azure-data-fundamentals.md.png](https://o.130014.xyz/2022/05/30/microsoft-certified-azure-data-fundamentals.md.png)](https://www.wailian.work/image/Q4Acc8)
