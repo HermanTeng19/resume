@@ -4,9 +4,9 @@
 
  # **Herman Teng**
 
-- IT Data Specialist at  DaaS (Data as a Service)
+- IT Data Specialist at DaaS (Data as a Service)
 
-- Azure Data Engineer | Programmer | Writer (Tech) | Full-time Learner
+- TD Bank | Azure Data Engineer | Writer (Tech) | Full-time Learner
 
 ---
 
