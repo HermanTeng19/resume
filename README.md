@@ -36,6 +36,7 @@ June 2022 – Present | DaaS (Data as a Service) | TD Bank
 
 * Developed and implemented a P.I data re-identification system using AI machine learning model, enhancing data privacy and security for all stakeholders
 * led the design and deployment of an enterprise metadata management system leveraging Microsoft Purview, significantly improving data discoverability and governance across the organization
+* Provided technical insights and solutions according to busineness requirements and lead the execution from design to deployment. Designed and implemented complex IT data management framework to meet business requirements
 * Utilized Python and PySpark to build efficient data processing pipelines and applications, streamlining data analytics and reporting workflows
 * Orchestrated the deployment of enterprise AI models on Azure Kubernetes Services (AKS), utilizing auto-scaling, load balancers, and multiple nodes and pods to ensure high availability and efficient resource management across data services
 * Designed and implemented data pipelines using Databricks Delta Lakes for data ingestion and processing, improving data availability and reliability
@@ -58,8 +59,8 @@ August 2017 – May 2021 | Canadian Personal Banking | TD Bank
 * Apply automation and innovation on data platform and on-going on any new development projects/initiatives aligned to business or organizational strategies
 * Continuously monitor the existing infrastructure including scheduled processing, infrastructure health and capacity
 * Provide technical insights and solutions according to business requirements and lead the execution from design to deployment. Design and implement complex business data information management frameworks to provide a solution that meets business requirements
-* Data analysis on new data feeds and analyze operational process workflows to further enrich the existing Business Intelligence infrastructurevim
-* Provide business technical leadership across a broad range of information management functions to support the various areas of data and analytics. 
+* Data analysis on new data feeds and analyze operational process workflows to further enrich the existing Business Intelligence infrastructure
+* Provide business technical leadership across a broad range of information management functions to support the various areas of data and analytics 
 * Analyze and understand business and data requirements to develop complete business solutions, including data models (entity relationship diagrams, dimensional data models) and business rules, data life-cycle management, governance, lineage, metadata and reporting elements
 * Collaborate with technology and business partners to resolve issues and ensure requirements and established SLAs regarding data gov, privacy, availability and security
 * Work closely with various technology/project teams to understand business data and provide analysis and requirements to ensure the data design / development initiatives are in line with the planned design and standards
