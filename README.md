@@ -1,6 +1,6 @@
 # **Herman Teng**
 
-[herman.teng@out.com](herman.teng@outlook.com)| [Linkedin Profile](https://www.linkedin.com/in/hermanteng/) | [GitHub Blog](https://hermanteng19.github.io) | 666-666-6666 | 
+[herman.teng@out.com](herman.teng@outlook.com)| [Linkedin](https://www.linkedin.com/in/hermanteng/) | [Blog](https://hermanteng19.github.io) | 666-666-6666 | 
 
 ---
 
