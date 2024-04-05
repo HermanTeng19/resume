@@ -1,6 +1,6 @@
 # **Herman Teng**
 
-[herman.teng@out.com](herman.teng@outlook.com)| [Linkedin](https://www.linkedin.com/in/hermanteng/) | [Blog](https://hermanteng19.github.io) | 666-666-6666 | 
+[Email](herman.teng@outlook.com)| [Linkedin](https://www.linkedin.com/in/hermanteng/) | [Blog](https://hermanteng19.github.io) | 666-666-6666 | 
 
 ---
 
@@ -26,7 +26,7 @@
 * Familiar with **Agile methodology;** Experienced on project incident and management portal such as **Jira and Confluence**
 * Experienced on OS: Linux — RHEL and Ubuntu Sever; Windows Server; AIX, HP Unix
 * Web application development skills: HTML5, CSS3, JavaScript, JSON, Node.js
-* 22 original professional posts on https://hermanteng19.github.io/
+* 25 original professional posts on https://hermanteng19.github.io/
 
 ## PROFESSIONAL EXPERIENCE
 
